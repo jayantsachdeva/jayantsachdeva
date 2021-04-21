@@ -1,6 +1,8 @@
 <h1 align="center">Hola there! 👋, I am Jayant Sachdeva</h1>
 <h3 align="center">Recent MCA Fresher with Freelancing Experience in Designing "Deliverable Software Product"</h3>
 
+- 🔭 Visit my website at [https://www.jayantsachdeva.in](https://www.jayantsachdeva.in)
+
 - 👨‍💻 All of my projects are available at [https://portfolio.jayantsachdeva.in](https://portfolio.jayantsachdeva.in)
 
 - 📝 I write articles at [https://blog.jayantsachdeva.in](https://blog.jayantsachdeva.in)
@@ -31,5 +33,5 @@
 <h2 align="left">Other Skills</h2>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><br/>
-## Mobile Backend as a Service (MBaaS)
+### Mobile Backend as a Service (MBaaS)
 </a>  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
